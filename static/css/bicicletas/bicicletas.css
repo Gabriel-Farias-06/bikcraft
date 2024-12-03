@@ -8,6 +8,7 @@
   gap: 40px;
   padding-top: 60px;
   padding-bottom: 60px;
+  background: url(../../../img/dec/top-right.svg) no-repeat top 40px right 20px;
 }
 
 .bicicletas-imagem {
@@ -62,6 +63,10 @@
 .bicicletas li {
   display: flex;
   align-items: center;
+}
+
+.bicicletas-conteudo h2 {
+  margin-bottom: 12px;
 }
 
 .bicicletas-conteudo img {
